@@ -36,6 +36,7 @@ This GitHub profile is new because I lost my previous one, so there's not much t
 <img width="80px" padding-right="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
 <img width="80px" padding-right="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg" />
 <img width="80px" padding-right="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original-wordmark.svg" />
+<img width="80px" padding-right="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" />
 
 
 
