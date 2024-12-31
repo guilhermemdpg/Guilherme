@@ -5,7 +5,7 @@ Full-stack software developer with proven experience in increasing operational e
 Currently, I am focusing on developing a Laravel product and learning more about Laravel during this process. I am also exploring Tailwind and Livewire, as well as diving into the Rust programming language. Below, I've listed some technologies I have worked with or learned throughout my career as a software developer.
 This GitHub profile is new because I lost my previous one, so there's not much to show here yet. However, that will change! Over the next few years, I plan to focus on learning, contributing to open-source projects, and building both private and public projects
 
-# Here you will find some tech stacks that i already worked and/or i'm learning right now
+## Here you will find some tech stacks that i already worked and/or i'm learning right now
 
 - Laravel and PHP
   <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
