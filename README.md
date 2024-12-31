@@ -25,24 +25,3 @@ This GitHub profile is new because I lost my previous one, so there's not much t
 <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" />
 <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-
-
-
-- Laravel and PHP
-- Vue.js 
-- Livewire 
-- Tailwind CSS 
-- Python
-- Pandas 
-- C# 
-- Dotnet MVC 
-- MySQL 
-- MongoDB 
-- Docker 
-- Git, Bitbucket, Gitlab 
-- AWS Cloudwatch, AWS EC2, AWS S3, AWS Route 53. 
-- Axios 
-- Bash 
-- Composer
-- Javascript 
-- Linux 
